@@ -163,7 +163,7 @@ Response:
 ## Team Responsibilities
 
 - **Ashish**: Refine image_gen.py and video_gen.py with actual generation logic.
-- **Nikitha**: Refine video_trans.py with actual translation logic.
+- **Nikhitha**: Refine image_gen.py and video_trans.py with actual translation logic.
 - **Bharath**: Implement FastAPI endpoints and connect to React frontend.
 
 ## Frontend Integration
