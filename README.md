@@ -160,19 +160,6 @@ Response:
 - `SECRET_KEY`: Secret key for JWT token generation
 - `OPENAI_MODEL`: OpenAI model to use (default: "gpt-4")
 
-## Frontend Integration
-
-The backend is designed to be consumed by a React frontend with a healthcare-themed UI:
-
-- **Color Scheme**:
-  - Primary: Blue (#007BFF) - Trust and professionalism
-  - Secondary: White (#FFFFFF) - Cleanliness and simplicity
-  - Accent: Green (#28A745) - Health and positivity
-
-- **Layout**:
-  - Header with logo and navigation
-  - Dashboard with cards for each functionality
-  - Modals for input and output display
 
 ## License
 
