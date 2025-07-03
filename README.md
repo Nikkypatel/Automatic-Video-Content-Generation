@@ -160,12 +160,6 @@ Response:
 - `SECRET_KEY`: Secret key for JWT token generation
 - `OPENAI_MODEL`: OpenAI model to use (default: "gpt-4")
 
-## Team Responsibilities
-
-- **Ashish**: Refine image_gen.py and video_gen.py with actual generation logic.
-- **Nikhitha**: Refine image_gen.py and video_trans.py with actual translation logic.
-- **Bharath**: Implement FastAPI endpoints and connect to React frontend.
-
 ## Frontend Integration
 
 The backend is designed to be consumed by a React frontend with a healthcare-themed UI:
